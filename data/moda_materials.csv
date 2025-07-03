@@ -1,2 +1,6 @@
-id,name,link,cost
-0,generic_metal,/Users/walterzesk/Documents/repos/z_img/Metal062C_1K-JPG,10
+id,name,code,cost
+0,generic_metal1,053C,10
+1,generic_metal2,055A,10
+2,generic_metal3,058A,10
+3,generic_metal4,058C,10
+4,generic_metal5,062C,10
