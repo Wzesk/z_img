@@ -1,0 +1,10 @@
+{
+    "MODA_v1": {
+        "min_seam": 0.25,
+        "max_seam": 3.0,
+        "min_width": 36,
+        "max_width": 720,
+        "min_height": 36,
+        "max_height": 720
+    }
+}
