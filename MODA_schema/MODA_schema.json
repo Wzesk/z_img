@@ -47,6 +47,10 @@
             "description": "The panel type.  This number is the length of the panel in inches.",
             "enum": [36, 54, 72, 90, 108]
           },
+          "panel-transform": {
+            "type": "array",
+            "description": "a tranformation that described the panel's location."
+          },
           "panel-material": {
             "type": "object",
             "description": "The material of the panel.",
