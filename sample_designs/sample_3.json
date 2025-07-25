@@ -1,0 +1,20 @@
+{
+  "name": "Sample Design 3",
+  "moda-version": "1.0",
+  "design-id": "sample-3",
+  "author-id": "user-3",
+  "referrer-uri": "https://example.com/visualizer",
+  "design-width-inches": 90,
+  "design-height-inches": 54,
+  "panels": [
+    {
+      "id": "panel-3-1",
+      "panel-type": 90,
+      "panel-transform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+      "panel-material": {
+        "material-name": "Metal 062C",
+        "material-id": "Metal062C_1K-JPG"
+      }
+    }
+  ]
+}
